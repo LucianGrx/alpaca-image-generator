@@ -1,0 +1,23 @@
+.container__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header__logo-title {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 13px;
+    color: var(--white);
+}
+
+.header__social {
+    display: flex;
+    gap: 10px;
+}
