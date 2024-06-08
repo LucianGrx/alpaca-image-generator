@@ -1,8 +1,5 @@
-# React + Vite
+# Lama Customizator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lama Customizator este o aplicație web simplă și interactivă care permite utilizatorilor să-și personalizeze propriul caracter în formă de lamă. Utilizatorii pot modifica diverse aspecte ale lamei, cum ar fi culoarea blănii, accesoriile (pălării, ochelari etc.), și expresiile faciale. La final, imaginea personalizată a lamei poate fi descărcată și utilizată ca imagine de profil pe orice rețea socială.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Lama Preview](assets/lama-preview.png)
